@@ -6,7 +6,9 @@ This repository contains the code used in
 
 Model_1_intervention_event.R <- function for model 1 (serial infected states) with intervention coded as an event (using package FME)
 
-Model_2_intervention_event.R <- fucntion for model 2 (parallel infected states) with intervention coded as an event (using package FME)
+Model_2_intervention_event.R <- function for model 2 (parallel infected states) with intervention coded as an event (using package FME)
+
+intervention_event.R <- fucntion to define the intervention as a event for use in the ODE models 
 
 SS_1_beta.R <- code to solve steady state solution for model 1 (serial infected states) for beta
 
